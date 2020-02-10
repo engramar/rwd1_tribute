@@ -10,13 +10,14 @@ body {
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
-  color: #333;
+  color: rgb(43, 40, 40);
   margin: 0;
 }
 
 h1 {
   font-size: 3.5rem;
   margin-bottom: 0;
+  color: rgb(43, 40, 40);
 }
 
 @media (max-width: 460px) {
@@ -111,6 +112,7 @@ cite {
   max-width: 600px;
   margin: 0 auto 30px auto;
   text-align: left;
+  color: rgb(43, 40, 40);
 }
 
 footer {
@@ -118,4 +120,5 @@ footer {
   max-width: 600px;
   margin: 0 auto 30px auto;
   text-align: right;
+  color: rgb(43, 40, 40);
 }
